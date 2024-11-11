@@ -15,7 +15,8 @@
 
 # Not allowed to do:
 - Bitch about that your feature wasnt implemented. Get a life not your personal dev just wait a bit more. In the meantime i recommend this: [a link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- Bitch about the fact that new version wasnt posted for more then two days, you are probably hungry. I am food person my self, I would recommend you eat ![bro a delicacy](https://media1.tenor.com/m/1He5mZI8ND0AAAAC/my-ass.gif)
+- Bitch about the fact that new version wasnt posted for more then two days, you are probably hungry. I am food person my self, I would recommend you eat 
+![bro a delicacy](https://media1.tenor.com/m/1He5mZI8ND0AAAAC/my-ass.gif)
 
 # Version 1.0.0
 - Ready for usage +-
