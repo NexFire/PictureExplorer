@@ -14,7 +14,7 @@
 - If you have any questions try to answer them your self ( google is a thing ) but if it is question regarding this SW then you can write it here with **question** label: [bro just trust me](https://github.com/NexFire/PictureExplorer/issues)
 
 # Not allowed to do:
-- Bitch about that your feature wasnt implemented. Get a life not your personal dev just wait a bit more. In the meantime i recommend this: [a link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- Bitch about the fact that your feature wasn't implemented. Get a life, not your personal dev, just wait a bit more. In the meantime i recommend this: [a link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - Bitch about the fact that new version wasnt posted for more then two days, you are probably hungry. I am food person my self, I would recommend you eat  
 ![bro a delicacy](https://media1.tenor.com/m/1He5mZI8ND0AAAAC/my-ass.gif)
 
