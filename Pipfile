@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 pillow = "*"
 pyqt5 = "*"
+nuitka = "*"
 
 [dev-packages]
 
